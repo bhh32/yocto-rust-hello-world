@@ -1,0 +1,10 @@
+[package]
+name = "yocto-rust-hello-world"
+version = "0.1.0"
+authors = ["Bryan Hyland <bryan.hyland32@gmail.com>"]
+edition = "2021"
+license = "GPL-3.0"
+description = "Hello, World in Rust for Yocto"
+repository = "https://github.com/bhh32/yocto-rust-hello-world"
+
+[dependencies]
